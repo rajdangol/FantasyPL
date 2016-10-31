@@ -1,5 +1,7 @@
 #FantasyPL
 
+FantasyPL is a program to check the current status of the classic and head to head leagues of FantasyPL.
+
 This is a basic exercise to understand web-scraping and json-handling using 
 python modules.
 
