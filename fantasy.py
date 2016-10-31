@@ -11,7 +11,6 @@ req.raise_for_status()
 
 data = json.loads(req.text)
 
-
 def main():
   print (colored('{:<10}'.format('id'),'green') + colored('{:<24}'.format('name'),'green') + colored('{:<22}'.format('team'),'green') 
   + colored('{:<8}'.format('points'),'green') + colored('{:<8}'.format('total'),'green'))
